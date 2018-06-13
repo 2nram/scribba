@@ -30,7 +30,7 @@ public class WelcomeActivity extends AppCompatActivity {
         btnSignIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intentSignIn = new Intent(WelcomeActivity.this , LoginActivity.class);
+                Intent intentSignIn = new Intent(WelcomeActivity.this , SignInActivity.class);
                 startActivity(intentSignIn);
             }
         });
