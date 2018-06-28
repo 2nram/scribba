@@ -1,10 +1,12 @@
-package com.a2nram.scribba;
+package com.a2nram.scribba.Activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.a2nram.scribba.R;
 
 public class WelcomeActivity extends AppCompatActivity {
 

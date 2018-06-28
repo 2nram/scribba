@@ -1,13 +1,15 @@
-package com.a2nram.scribba;
+package com.a2nram.scribba.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class SignInActivity extends AppCompatActivity {
+import com.a2nram.scribba.R;
+
+public class LoginActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sign_in);
+        setContentView(R.layout.activity_login);
     }
 }

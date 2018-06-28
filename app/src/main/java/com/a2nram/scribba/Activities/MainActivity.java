@@ -1,4 +1,4 @@
-package com.a2nram.scribba;
+package com.a2nram.scribba.Activities;
 
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
