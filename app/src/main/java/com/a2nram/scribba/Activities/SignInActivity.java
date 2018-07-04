@@ -3,6 +3,8 @@ package com.a2nram.scribba.Activities;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.a2nram.scribba.R;
+
 public class SignInActivity extends AppCompatActivity {
 
     @Override
